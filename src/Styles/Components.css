@@ -1,0 +1,17 @@
+@import "./Colors.css";
+
+body {
+  margin: 0;
+  font-family: monospace;
+  background: var(--background-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+h1 {
+  color: white;
+  font-size: larger;
+}
