@@ -2,6 +2,7 @@
 
 - [ ] Make a few random pages
 - [ ] Delete unnecessary files
+- [ ] Make a logo
 
 ## Completed
 

@@ -7,3 +7,7 @@
 - March 2nd 2022 6:20PM
 - [+Page, +Tasks, +Changes, +Styles, -Task]
 - Added a about page, a few tasks, updated index.tsx, added some styles and finished a task.
+
+- March 3rd 2022 6:59PM
+- [+Changes, +Task]
+- Moved the pages to a new folder and updated the index.tsx.
