@@ -1,7 +1,8 @@
 @import "./Colors.css";
 
 body {
-  margin: 0;
+  display: flex;
+  cursor: progress;
   font-family: monospace;
   background: var(--background-color);
 }
@@ -12,7 +13,7 @@ a {
 }
 
 h1 {
-  color: white;
+  color: var(--primary-color);
   font-size: larger;
 }
 
@@ -23,4 +24,10 @@ App {
   justify-content: center;
   height: 100vh;
   color: var(--background-color);
+}
+
+p {
+  color: var(--secondary-color);
+  font-size: 25px;
+  display: flex;
 }

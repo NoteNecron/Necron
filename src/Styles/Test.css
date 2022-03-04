@@ -1,0 +1,45 @@
+@import "./Colors.css";
+
+.test {
+  background-color: var(--background-color);
+  color: var(--primary-color);
+  font-family: monospace;
+  cursor: help;
+}
+
+.test-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: var(--primary-color);
+}
+
+p {
+  color: var(--secondary-color);
+  font-family: monospace;
+  font-size: 25px;
+  display: flex;
+}
+
+.test-navbar {
+  font-size: 25px;
+  text-align: right;
+  border-color: var(--border-color);
+  display: flex;
+  flex-direction: row;
+}
+
+ul,
+li,
+a {
+  text-align: right;
+  justify-content: space-between;
+  color: var(--link-color);
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  cursor: none;
+}

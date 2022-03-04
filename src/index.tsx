@@ -1,14 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "./Styles/Home.css";
+import reportWebVitals from "./reportWebVitals";
+// Pages
 import App from "./pages/Home";
 import About from "./pages/About";
-import "./index.css";
-import reportWebVitals from "./reportWebVitals";
+import Test from "./pages/Test";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <About />
+    <Test />
   </React.StrictMode>,
   document.getElementById("root")
 );

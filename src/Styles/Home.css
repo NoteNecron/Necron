@@ -1,5 +1,5 @@
-@import "./Styles/Colors.css";
-@import "./Styles/Components.css";
+@import "./Colors.css";
+@import "./Components.css";
 
 .App {
   text-align: center;
@@ -24,11 +24,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: var(--primary-color);
 }
 
 .App-link {
-  color: var(--link-color);
+  color: green;
   text-decoration: none;
 }
 

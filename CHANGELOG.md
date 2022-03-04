@@ -11,3 +11,7 @@
 - March 3rd 2022 6:59PM
 - [+Changes, +Task]
 - Moved the pages to a new folder and updated the index.tsx.
+
+- March 4th 22022 6:44PM
+- [+Changes, +Fix, +Page, +Styles]
+- Made some minor changes, fixed up the code, added a test page, and added some styles.
