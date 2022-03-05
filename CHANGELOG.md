@@ -19,3 +19,9 @@
 - March 5th 2022 3:33PM
 - [+Changes, +Styles, +Logo?, +Tasks, -Task, +Build]
 - Made some changes, added a few styles, added a temp logo?, added a few tasks, finished a task and built for production.
+
+## v1.1.0
+
+- Match 5th 2022 3:40PM
+- [+Change, +Version]
+- Made a quick change in the .gitignore and v.1.1.0 is out.
