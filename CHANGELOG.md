@@ -25,3 +25,6 @@
 - Match 5th 2022 3:40PM
 - [+Change, +Version]
 - Made a quick change in the .gitignore and v.1.1.0 is out.
+- 4:45PM
+- [-Task, +Release]
+- Finished a task and made a new release.
