@@ -1,5 +1,6 @@
 import React from "react";
-import "../Styles/Test.css";
+import "../sass/test.sass";
+import test from "../assets/test.svg";
 
 function Test() {
   return (
@@ -18,6 +19,34 @@ function Test() {
           out the other "pages"
         </p>
       </header>
+      <div className="test-content">
+        This is a test don't mind me and this works just fine nice
+        <img src={test} className="App-logo" alt="test" />
+        <video
+          src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
+          autoPlay
+          loop
+          muted
+        />
+        <pre>
+          <code className="language-html">
+            {`
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                <title>Test</title>
+            </head>
+            <body>
+                <h1>Testing!</h1>
+            </body>
+            </html>
+            `}
+          </code>
+        </pre>
+      </div>
     </div>
   );
 }

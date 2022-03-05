@@ -15,3 +15,7 @@
 - March 4th 22022 6:44PM
 - [+Changes, +Fix, +Page, +Styles]
 - Made some minor changes, fixed up the code, added a test page, and added some styles.
+
+- March 5th 2022 3:33PM
+- [+Changes, +Styles, +Logo?, +Tasks, -Task, +Build]
+- Made some changes, added a few styles, added a temp logo?, added a few tasks, finished a task and built for production.
