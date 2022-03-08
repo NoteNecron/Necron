@@ -1,6 +1,9 @@
 import React from "react";
 import "../sass/test.sass";
 import test from "../assets/test.svg";
+import ha from "../assets/ha.svg";
+import hljs from "highlight.js";
+hljs.highlightAll();
 
 function Test() {
   return (
@@ -28,24 +31,7 @@ function Test() {
           loop
           muted
         />
-        <pre>
-          <code className="language-html">
-            {`
-            <!DOCTYPE html>
-            <html lang="en">
-            <head>
-                <meta charset="UTF-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <meta http-equiv="X-UA-Compatible" content="ie=edge">
-                <title>Test</title>
-            </head>
-            <body>
-                <h1>Testing!</h1>
-            </body>
-            </html>
-            `}
-          </code>
-        </pre>
+        <img src={ha} className="App-logo" alt="ha" />
       </div>
     </div>
   );
