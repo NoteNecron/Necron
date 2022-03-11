@@ -8,8 +8,8 @@
 
 ## Completed
 
-- [X] Make a proper README.md file
-- [X] Add sass support (because I don't like working with vanilla CSS)
-- [X] Make a new release
+- [x] Make a proper README.md file
+- [x] Add sass support (because I don't like working with vanilla CSS)
+- [x] Make a new release
 
 ### Abandoned

@@ -2,8 +2,6 @@ import React from "react";
 import "../sass/test.sass";
 import test from "../assets/test.svg";
 import ha from "../assets/ha.svg";
-import hljs from "highlight.js";
-hljs.highlightAll();
 
 function Test() {
   return (

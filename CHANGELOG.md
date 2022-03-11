@@ -32,3 +32,7 @@
 - March 8th 2022 2:00PM
 - [+Changes, +Svg, +Package]
 - Made a few minor changes in test.tsx, added a new svg doesn't work, added a highlight.js package and fixed the spelling error.
+
+- March 11th 2022 5:12PM
+- [+Changes, -Package, +Page, +Style]
+- Made a few changes, removed highlight.js, added a projects page a sass file for the projects page.

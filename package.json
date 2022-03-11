@@ -9,7 +9,7 @@
     "url": "https://github.com/NoteNecron/"
   },
   "bugs": "https://github.com/NoteNecron/Necron/issues/",
-  "license": "The Unlicense",
+  "license": "Unlicense",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
@@ -18,7 +18,6 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
-    "highlight.js": "^11.4.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",

@@ -6,12 +6,14 @@ import reportWebVitals from "./reportWebVitals";
 import App from "./pages/Home";
 import About from "./pages/About";
 import Test from "./pages/Test";
+import Projects from "./pages/Projects";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <About />
     <Test />
+    <Projects />
   </React.StrictMode>,
   document.getElementById("root")
 );
