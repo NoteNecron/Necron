@@ -18,6 +18,7 @@ function App() {
         >
           My Vue3 project
         </a>
+        <p>currently not being worked on and will most likely be scraped</p>
       </header>
     </div>
   );

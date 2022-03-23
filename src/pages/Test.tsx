@@ -30,6 +30,7 @@ function Test() {
           muted
         />
         <img src={ha} className="App-logo" alt="ha" />
+        <p>It's just a spinning "ha" I like that</p>
       </div>
     </div>
   );

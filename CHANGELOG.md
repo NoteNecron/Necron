@@ -36,3 +36,7 @@
 - March 11th 2022 5:12PM
 - [+Changes, -Package, +Page, +Style]
 - Made a few changes, removed highlight.js, added a projects page a sass file for the projects page.
+
+- March 23rd 2022 5:10PM
+- [+Changes]
+- Added one line of text
